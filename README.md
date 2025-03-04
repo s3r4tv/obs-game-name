@@ -10,7 +10,7 @@
 <details>
 <summary>Просмотреть 9 шагов, настройка которых займёт пару минут вашего времени 🤝</summary>
 
-1. Скачайте файл `obs-game-name.html`.
+1. [Скачайте файл](https://github.com/s3r4tv/obs-game-name/releases/download/release/obs-game-name.html) `obs-game-name.html`.
 2. Откройте файл в браузере.
 3. Перейдите на сайт [Twitch Token Generator](https://twitchtokengenerator.com) и выберите **Custom Scope Token** во всплывающем окне.
 4. Пролистайте до "Available Token Scopes" и активируйте эти 3 опции:
